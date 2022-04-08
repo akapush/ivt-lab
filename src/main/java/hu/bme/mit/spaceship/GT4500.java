@@ -78,8 +78,8 @@ public class GT4500 implements SpaceShip {
 
       case ALL:
         // try to fire both of the torpedo stores
-        //TODO implement feature
-
+        //TODO rendesen megcsinálni
+        firingSuccess = true; 
         break;
     }
 
